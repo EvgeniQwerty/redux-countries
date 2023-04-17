@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-countries/static/css/main.e937bdad.css",
+    "main.js": "/redux-countries/static/js/main.fef5db68.js",
+    "index.html": "/redux-countries/index.html",
+    "main.e937bdad.css.map": "/redux-countries/static/css/main.e937bdad.css.map",
+    "main.fef5db68.js.map": "/redux-countries/static/js/main.fef5db68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e937bdad.css",
+    "static/js/main.fef5db68.js"
+  ]
+}
