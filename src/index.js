@@ -10,7 +10,7 @@ import App from './App';
 ReactDOM.render(
     <Provider store={store}>
         <React.StrictMode>
-            <BrowserRouter>
+            <BrowserRouter basename='/redux-countries/'>
                 <App />
             </BrowserRouter>
         </React.StrictMode>
